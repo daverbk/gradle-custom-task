@@ -5,7 +5,6 @@ plugins {
 group = 'org.studies'
 version = '1.0-SNAPSHOT'
 
-
 tasks.register('customTask', CustomGradleTask) {
 }
 
