@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-task-project'
+include 'app'
+
